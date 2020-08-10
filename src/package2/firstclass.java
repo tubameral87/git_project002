@@ -10,12 +10,9 @@ public class firstclass {
 		System.out.println("this is the first commit from remote repo");
 
 		System.out.println("this is the forth commit from local master");
-
-		
-		
+	
 		System.out.println("this is the second commit from remote master");
-		
-
+	
 	}
 
 }
